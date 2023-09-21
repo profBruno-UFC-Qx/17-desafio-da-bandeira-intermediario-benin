@@ -1,6 +1,6 @@
 # Descrição
 
-Neste exercício prático, você irá construir a bandeiras da Ucrânia usando CSS.
+Neste exercício prático, você irá construir a bandeiras do Benin usando CSS.
 
 
 O objetivo deste exercício é exercitar o seu conhecimento sobre o CSS Box Model e Flexbox.
@@ -13,12 +13,12 @@ O objetivo deste exercício é exercitar o seu conhecimento sobre o CSS Box Mode
 
 ## Instruções:
 
-1. Construa a bandeira da Ucrânia alterando o conteúdo do arquivo **src/index.html** e **src/css/estilo.css**
+1. Construa a bandeira do Botswana alterando o conteúdo do arquivo **src/index.html** e **src/css/estilo.css**
 1. Sua bandeira deve ficar parecido com a bandeira abaixo:
   
 <figure>
-	<img src="https://www.worldometers.info/img/flags/up-flag.gif" alt="Bandeira de Ucrânia" width="50%">
-	<figcaption>Bandeira da Ucrânia</figcaption>
+	<img src="https://www.worldometers.info/img/flags/bn-flag.gif" alt="Bandeira do Benin" width="50%">
+	<figcaption>Bandeira do Benin</figcaption>
 </figure>
 
 ## Recomendações
